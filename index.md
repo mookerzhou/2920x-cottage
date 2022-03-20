@@ -41,9 +41,9 @@ minute walk from the Ashby BART station.
 
 Red tape details:
 * Available April 1, with 1-year lease preferred
-* Rent: $2000/month, with gas, + $100/month for utilities
+* Rent: $2000/month
 * Deposit: 1st month's rent
-* Utilities: gas, electricity, heating, water, sewer and trash
+* Utilities paid by tenant monthly, average $60/month.
 * Limits: No off-street parking, smoking, or dogs. Cats totally welcome.
 
 <br><br>
