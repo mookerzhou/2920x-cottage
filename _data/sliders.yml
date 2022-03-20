@@ -1,0 +1,25 @@
+- selector: slider2
+  bullets: false
+  captions: false
+  images:
+    - src: /assets/images/40941293_15_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_24_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_25_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_26_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_27_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_28_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_29_1.jpeg
+      alt: Photo
+    - src: /assets/images/40941293_30_1.jpeg
+      alt: Photo
+    - src: /assets/images/x_40941293_1.jpeg
+      alt: Photo
+  settings:
+    height: "'auto'"
+    effect: "'fade'"

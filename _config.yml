@@ -1,0 +1,12 @@
+theme: minima
+title: |
+  🏘   2920 1/2A Wheeler Street
+author:
+  name:  '\0/ Buro and Maggie <3'
+timezone: UTC−07:00
+logo: /assets/favicon.png
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+header_pages: ['']
